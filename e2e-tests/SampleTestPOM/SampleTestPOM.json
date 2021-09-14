@@ -1,0 +1,6 @@
+{
+    "selectedProduct": "element(by.css(\"h4 > [href='#']\"))",
+    "btnContinueShopping": "element(by.css(\".btn-default\"))",
+    "btnCheckout": "element(by.partialLinkText(\"Checkout\"))"
+
+}
